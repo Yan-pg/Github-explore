@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
- <img width=400px height=400px src="./src/assets/peek.gif" alt="Project logo"></a>
+ <img src="./src/assets/peek.gif" alt="Project logo"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
