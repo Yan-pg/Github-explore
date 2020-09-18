@@ -35,11 +35,29 @@
 ## 🧐 About <a name = "about"></a>
 
  <img src="./src/assets/peek.gif" alt="Project logo"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+
+Application of a panel to consume the github api, and on the root page has a search input and returns me the list of all repositories that have already been searched and that is saved in LocalStorage, being able to get more information by clicking on the preferred repository
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+T<div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span>
+$ git clone https://github.com/lukemorales/gobarber-web
+
+<span class="pl-c"><span class="pl-c">#</span> Go into the repository</span>
+$ <span class="pl-c1">cd</span> gobarber-web
+
+<span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
+$ yarn install
+
+<span class="pl-c"><span class="pl-c">#</span> Run the app</span>
+$ yarn start</pre></div>
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
+
 
 ### Prerequisites
 
@@ -95,12 +113,6 @@ Add notes about how to use the system.
 
 Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
