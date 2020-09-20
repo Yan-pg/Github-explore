@@ -24,13 +24,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -41,7 +34,8 @@ Application of a panel to consume the github api, and on the root page has a sea
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span>
-$ git clone https://github.com/Yan-pg/Github-explore.git
+$ git clone https://github.com/Yan-pg/Github-explore.git 
+<br>
 
 <span class="pl-c"><span class="pl-c">#</span> Go into the repository</span>
 $ <span class="pl-c1">cd</span>Github-explore
