@@ -40,11 +40,11 @@ Application of a panel to consume the github api, and on the root page has a sea
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-T<div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span>
-$ git clone https://github.com/lukemorales/gobarber-weba
+<div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span>
+$ git clone https://github.com/Yan-pg/Github-explore.git
 
 <span class="pl-c"><span class="pl-c">#</span> Go into the repository</span>
-$ <span class="pl-c1">cd</span> gobarber-web
+$ <span class="pl-c1">cd</span>Github-explore
 
 <span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
 $ yarn install
@@ -53,75 +53,7 @@ $ yarn install
 $ yarn start</pre></div>
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Api](https://api.github.com/) - Api GitHub
+- [ReactJS](https://pt-br.reactjs.org/) - Web Framework
 
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+<p>Made with <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png"><img class="emoji" alt="purple_heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png"></g-emoji> by Yan César <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji>
